@@ -22,7 +22,7 @@ To run the notebooks and view the visualizations:
 
 Clone the repository:
 
-git clone https://github.com/username/internship-projects.git
+git clone https://github.com/Chandan22805/internship-projects.git
 
 Navigate to the project directory:
 
